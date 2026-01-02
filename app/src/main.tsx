@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.tsx'
 
 
-//STRIK
+//STRIKssss
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <App />
